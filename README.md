@@ -63,18 +63,23 @@ seaborn
 scikit-learn
 6. Project Structure
 project/
+
 │
 ├── data/
+
 │   └── populationdataset.csv
 │
 ├── notebooks/
+
 │   └── analysis.ipynb
 │
 ├── results/
+
 │   ├── figures/
 │   └── tables/
 │
 ├── paper/
+
 │   └── research_paper.pdf
 │
 └── README.md
