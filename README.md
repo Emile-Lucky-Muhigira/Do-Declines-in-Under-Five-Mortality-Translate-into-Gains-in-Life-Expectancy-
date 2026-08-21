@@ -5,9 +5,9 @@ This project presents an analytical study of global demographic indicators using
 
 The study is conducted as part of an individual assignment in data analytics and aims to apply statistical and computational methods to derive meaningful insights from real-world data.
 
-Author: Emile Lucky Muhigira
-Carnegie Mellon University Africa
-Programming for Data Analytics Project
+Author: Emile Lucky Muhigira - 
+Carnegie Mellon University Africa - 
+Programming for Data Analytics Project - 
 
 2. Research Objective
 
