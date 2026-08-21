@@ -7,7 +7,7 @@ The study is conducted as part of an individual assignment in data analytics and
 
 Author: Emile Lucky Muhigira - 
 Carnegie Mellon University Africa - 
-Programming for Data Analytics Project - 
+Programming for Data Analytics Project 
 
 2. Research Objective
 
