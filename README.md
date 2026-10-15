@@ -53,6 +53,7 @@ Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
 Optional Machine Learning Models:
 Regression-based models (e.g., linear regression, random forest) may be used to estimate projected values and assess predictive consistency.
+
 5. Tools and Technologies
 Python (Jupyter Notebook)
 Libraries:
@@ -91,10 +92,13 @@ Quantify how closely 2024 projections follow historical demographic trends
 Identify indicators with strong or weak predictive consistency
 Highlight deviations and potential sources of discrepancy
 Provide insight into the reliability of demographic projections
+
 8. Limitations
+
 Limited number of time points (four years) restricts the use of advanced time-series models
 2024 data represents projections rather than observed values
 Potential missing or incomplete data for some countries or indicators
+
 9. Conclusion
 
 This project contributes to understanding the reliability of demographic projections by comparing them with historical trends. The findings provide insight into the extent to which past patterns can explain projected outcomes, with implications for policy planning and demographic forecasting.
