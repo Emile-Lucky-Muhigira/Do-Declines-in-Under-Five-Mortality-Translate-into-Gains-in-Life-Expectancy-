@@ -84,6 +84,7 @@ project/
 │   └── research_paper.pdf
 │
 └── README.md
+
 7. Results and Expected Outcomes
 
 The analysis aims to:
